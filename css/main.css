@@ -2,6 +2,7 @@
   font-family: "Bai Jamjuree", sans-serif;
   font-size: 18px;
   line-height: 1.5;
+  box-sizing: border-box;
 }
 
 body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif;}
