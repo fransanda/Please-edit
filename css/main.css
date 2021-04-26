@@ -286,7 +286,7 @@ bgimg-1, .bgimg-2, .bgimg-3 {
 
 /* First image (Logo. Full height) */
 bgimg-1 {
-  background-image: url('/img/parallax1.jpg');
+  background-image: url('https://github.com/fransanda/Please-edit/blob/master/img/parallax1.jpg?raw=true');
   min-height: 100%;
 }
 
